@@ -17,3 +17,4 @@ Publicly available models for all to use (check the license at which they are re
 | VGG ILSVRC-2014 19-layer |   |
 | Network-in-Network(Imagenet) |   | 
 | Network-in-Network(CIFAR-10) |   |
+| [Inception v3](https://github.com/Moodstocks/inception-v3.torch) |  |
